@@ -1,4 +1,4 @@
 webdsgn
 =======
 
-This a repository of polish web-designer
+This storage novice web-developer
